@@ -247,6 +247,10 @@ GitHub Actions helped the team:
 
 
 ##Example Workflow
+<img width="940" height="425" alt="image" src="https://github.com/user-attachments/assets/cf7a513a-cc45-4f68-980c-f73d04312bf0" />
+
+
+
  
 The screenshot above shows the automated build and test workflow triggered on every push to the repository. It demonstrates the sequential steps of checking out the code, configuring the environment, running tests, and reporting results. A green check confirms all tests pass; a red cross blocks merges.
 Team Contribution
@@ -351,6 +355,8 @@ Customer Website
 
 
 Home Page
+<img width="940" height="453" alt="image" src="https://github.com/user-attachments/assets/34e203fd-b5f3-4cbf-b821-fbce08498b55" />
+
  *Figure 1: Website Home Page*
 
 
@@ -358,30 +364,41 @@ Home Page
 
 
 
-
+ 
 
 
 
  Quote Request Page
  
- 
+ <img width="817" height="394" alt="image" src="https://github.com/user-attachments/assets/c4b8f749-112c-4854-832a-dc15d9bce3d8" />
+
 Figure 2: Quote Request Form
 
 Mobile Application 
 Dashboard and Request Management
+
+<img width="399" height="570" alt="image" src="https://github.com/user-attachments/assets/48770b01-ddb0-4e87-8291-972d23585853" />
+
  
 Figure 3: Mobile Application Dashboard and Mobile Request Processing Screen
 
 Administrative Web Application
 Dashboard
+
+<img width="312" height="690" alt="image" src="https://github.com/user-attachments/assets/9cee368e-7b8f-44e8-b8f9-d9b83ca6934d" />
+
  
 Figure 5: Administrative Dashboard
 
 Quote Management
+
+<img width="728" height="409" alt="image" src="https://github.com/user-attachments/assets/d1fcd50a-32a6-4b97-81fc-9ccaeb7a8407" />
  
 Figure 6: Quote Processing Interface
 Reports
- 
+
+<img width="940" height="476" alt="image" src="https://github.com/user-attachments/assets/30080db2-2697-4eb0-b735-9fac4e3fe43b" />
+
 Figure 7: Reporting Dashboard
 
 Release Notes
